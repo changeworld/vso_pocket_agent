@@ -1,0 +1,3 @@
+rootProject.name = 'vso_pocket_agent'
+
+include ':app'
